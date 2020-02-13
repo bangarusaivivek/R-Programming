@@ -54,4 +54,3 @@ monitors meet the threshold requirement, then the function should return a numer
         }
         return(result)
   }
-
