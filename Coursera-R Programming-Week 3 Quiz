@@ -68,6 +68,6 @@ abs(HP_Cyl[3] - HP_Cyl[1])
 # Question 5
 # If you run 'debug(ls)' what happens when you next call the 'ls' function?
 debug(ls)
-ls()
+ls() 
 undebug(ls)
 # Execution of 'ls' will suspend at the beginning of the function and you will be in the browser.
