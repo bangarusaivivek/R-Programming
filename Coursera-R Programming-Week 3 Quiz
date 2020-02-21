@@ -17,7 +17,7 @@ mean(iris[iris$Sepal.Length & iris$Species == 'virginica', 1])
 
 # Or in this way
 
-library(datasets)
+library(datasets) 
 
 data(iris)
 
