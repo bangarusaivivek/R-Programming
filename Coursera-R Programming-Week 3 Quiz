@@ -23,7 +23,7 @@ data(iris)
 
 dat <- iris[iris$Species == 'virginica', ][1]
 
-class(dat)
+class(dat) 
 # [1] "data.frame"
 
 # convert to numeric
